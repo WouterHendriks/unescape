@@ -1,0 +1,14 @@
+{
+    "name": "wouterhendriks/plugin",
+    "description": "Unescape Plugin for Craft CMS",
+    "authors": [
+		{
+			"name": "Wouter Hendrks",
+			"email": "wouterhendriks@live.com"
+		}
+	],
+    "type": "craft-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
